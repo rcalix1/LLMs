@@ -8,7 +8,7 @@
 
 ## Tokens
 
-*The tokens are the characters 
+* The tokens are the characters 
 
  !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
  
