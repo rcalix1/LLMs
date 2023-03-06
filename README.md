@@ -1,6 +1,6 @@
 ## Large Language Models (LLMs)
 
-* a nano ChatGPT style LLM
+* a tiny ChatGPT style LLM 
 
 * took about 20 minutes training on my GPU
 
