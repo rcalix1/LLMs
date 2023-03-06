@@ -8,6 +8,8 @@
 
 ## Tokens
 
+*The tokens are the characters 
+
  !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
  
 ## Train and test losses
