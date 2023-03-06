@@ -35,22 +35,32 @@ step 4500: train loss 1.1116, val loss 1.4772
 
 ## The tiny GPT speaking Shakespear :)
 
-Such blest upon't: by their hostes' actions,
+Such blest upon't: by their hostes' actions, 
+
 The goals of either, though quiet is solder'd
+
 She she blam thereod reasonary.
 
 SICINIUS:
+
 What, is't indeed? happed?
 
 MENENIUS:
+
 Come, brother, with myself and now
+
 That a pronounds us may be accourse, they said.
+
 When If you should love thee, Volscians; freeling suspecian.
+
 Let thy lords so 'em'?' 'Forsel'? why have I tread?
 
 SICINIUS:
+
 I pray, you were th sword man's so parted train.
+
 Show thy father, what news happy names
+
 For his fraid pain ben of thy hol
 
 
