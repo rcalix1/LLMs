@@ -13,14 +13,23 @@
 ## Train and test losses
 
 step 0: train loss 4.2849, val loss 4.2823
+
 step 500: train loss 2.0083, val loss 2.0968
+
 step 1000: train loss 1.5968, val loss 1.7752
+
 step 1500: train loss 1.4391, val loss 1.6376
+
 step 2000: train loss 1.3421, val loss 1.5682
+
 step 2500: train loss 1.2794, val loss 1.5312
+
 step 3000: train loss 1.2278, val loss 1.5065
+
 step 3500: train loss 1.1836, val loss 1.4900
+
 step 4000: train loss 1.1469, val loss 1.4820
+
 step 4500: train loss 1.1116, val loss 1.4772
 
 
