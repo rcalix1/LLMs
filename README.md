@@ -1,5 +1,13 @@
 ## Large Language Models (LLMs)
 
+Code examples of Large Language Models (LLMs) written from scratch.
+
+## Readings
+
+* Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. (2017). Attention Is All You Need. (https://arxiv.org/pdf/1706.03762.pdf)
+
+## A Tiny GPT
+
 * a tiny ChatGPT style LLM 
 
 * took about 20 minutes training on my GPU
@@ -65,8 +73,6 @@ Show thy father, what news happy names
 
 For his fraid pain ben of thy hol
 
-## Readings
 
-* Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. (2017). Attention Is All You Need. (https://arxiv.org/pdf/1706.03762.pdf)
 
 
