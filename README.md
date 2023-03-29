@@ -16,6 +16,8 @@ Code examples of Large Language Models (LLMs) written from scratch.
 
 * GPT is only the decoder part of the original Transformer architecture (Vaswani et al. 2017)
 
+* File: GenerativeTransformerTinyGPT.py
+
 ## Tokens
 
 * The tokens are the characters 
