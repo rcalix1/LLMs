@@ -1,6 +1,9 @@
 ## Large Language Models (LLMs)
 
-Code examples of Large Language Models (LLMs) written from scratch and on the use of pre-trained LLMs
+Code examples of Large Language Models (LLMs):
+
+* written from scratch 
+* on the use of pre-trained LLMs
 
 ## Readings
 
@@ -14,7 +17,7 @@ Code examples of Large Language Models (LLMs) written from scratch and on the us
 * Llama GitHub (https://github.com/facebookresearch/llama)
 * Dolly (https://github.com/databrickslabs/dolly)
 * GPT4all (https://github.com/nomic-ai/gpt4all)
-* Warm-Starting code (https://huggingface.co/blog/warm-starting-encoder-decoder)
+
 
 ## Readings for Advanced LLMs
 
