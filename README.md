@@ -1,6 +1,6 @@
 ## Large Language Models (LLMs)
 
-Code examples of Large Language Models (LLMs) written from scratch.
+Code examples of Large Language Models (LLMs) written from scratch and on the use of pre-trained LLMs
 
 ## Readings
 
