@@ -8,6 +8,7 @@ Info on Llama, alpaca, dolly, gpt4all, etc.
 * Alpaca (https://github.com/tatsu-lab/stanford_alpaca)
 * Dolly (https://github.com/databrickslabs/dolly)
 * GPT4all (https://github.com/nomic-ai/gpt4all)
+* Lit-Lama (https://github.com/Lightning-AI/lit-llama)
 
 
 ## Readings for Advanced LLMs
