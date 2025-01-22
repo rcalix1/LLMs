@@ -5,6 +5,10 @@ Code examples of Large Language Models (LLMs):
 * written from scratch 
 * on the use of pre-trained LLMs
 
+## MLX examples
+
+* https://github.com/ml-explore/mlx-examples/blob/main/llms/mlx_lm/examples/pipeline_generate.py
+
 ## BPE from scratch
 
 * https://sebastianraschka.com/blog/2025/bpe-from-scratch.html
