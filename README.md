@@ -5,9 +5,14 @@ Code examples of Large Language Models (LLMs):
 * written from scratch 
 * on the use of pre-trained LLMs
 
-## MLX examples
+## Readings
 
-* https://github.com/ml-explore/mlx-examples/blob/main/llms/mlx_lm/examples/pipeline_generate.py
+* https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
+* https://github.com/rasbt/LLMs-from-scratch/blob/main/ch05/11_qwen3/standalone-qwen3-moe.ipynb
+* https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the
+* https://www.manning.com/books/build-a-reasoning-model-from-scratch?utm_source=raschka&utm_medium=affiliate&utm_campaign=book_raschka2&a_aid=raschka&a_bid=4c3c5398&chan=mm_twitter&utm_campaign=21069853-book_raschka2&utm_source=twitter
+* 
+
 
 ## BPE from scratch
 
