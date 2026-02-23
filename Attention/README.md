@@ -36,9 +36,7 @@ $$ X = U \Sigma V^\top $$
 
 with constraints:
 
-* $$ (U^\top U = I) $$
-* (V^\top V = I)
-* (\Sigma \ge 0)
+
 
 $$
 \begin{aligned}
