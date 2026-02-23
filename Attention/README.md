@@ -28,7 +28,9 @@ which generalizes: SVD, attention, convolution, Fourier transform, and potential
 
 ## **2.1 Classical SVD**
 
-For any matrix (X \in \mathbb{R}^{m \times n}):
+For any matrix 
+
+$$ X \in \mathbb{R}^{m \times n} $$
 
 $$ X = U \Sigma V^\top $$
 
