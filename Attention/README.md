@@ -1,4 +1,4 @@
-## Attention and SVD: A Thought Experiment
+## Attention and SVD: A Thought Experiment on a general factorization framework
 
 # Universal Factorization Layers: A Learned Generalization of Attention
 
