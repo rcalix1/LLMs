@@ -68,13 +68,17 @@ This layer **learns its own decomposition mechanism**, rather than performing al
 
 Standard attention is:
 
-$$ \operatorname{Attn}(X) = \operatorname{softmax}(QK^\top) V. $$
+
+
+$$ Attn(X) = \text{softmax}(QK^\top)\, V $$
 
 To embed attention into the SVD framework, choose:
 
-$$ U_\theta = \operatorname{softmax}(QK^\top), $$
-$$ \Sigma_\theta = I, $$
-$$ V_\theta = V. $$
+$$ U_\theta = \text{softmax}(QK^\top) $$
+
+$$ \Sigma_\theta = I $$
+
+$$ V_\theta = V $$
 
 Then the factorization operator becomes:
 
