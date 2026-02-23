@@ -82,7 +82,7 @@ $$ V_\theta = V $$
 
 Then the factorization operator becomes:
 
-$$ U_\theta \Sigma_\theta V_\theta^\top = \operatorname{softmax}(QK^\top) V $$
+$$ U_\theta \Sigma_\theta V_\theta^\top = \text{softmax}(QK^\top)\, V $$
 
 which is **exactly standard attention**.
 
@@ -177,27 +177,3 @@ This visually demonstrates that the layer **adapts its decomposition** to the st
 
 ---
 
-# **9. Novelty of the Paper**
-
-What has NOT been done before:
-
-* A **learnable SVD‑like operator** used as a Transformer primitive
-* Showing **attention is a special case** of such an operator
-* Showing **Fourier, convolution, and SVD** are also special cases
-* Allowing **AI to discover new mathematical decompositions**
-* Using unified factorization to explain **why attention works**
-
-This positions the paper as a foundational reinterpretation of neural sequence modeling.
-
----
-
-# **10. Possible Titles**
-
-* **Universal Factorization Layers: Attention as a Special Case**
-* **Transformers as Learned SVD Machines**
-* **Generalized Decomposition Layers for Deep Networks**
-* **Neural Factorization Operators: From SVD to Attention and Beyond**
-
----
-
-# End of README.md content
