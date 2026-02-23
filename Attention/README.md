@@ -38,6 +38,14 @@ with constraints:
 * (V^\top V = I)
 * (\Sigma \ge 0)
 
+$$
+\begin{aligned}
+U^\top U &= I \\
+V^\top V &= I \\
+\Sigma &\ge 0
+\end{aligned}
+$$
+
 ## **2.2 Proposed Neural Operator**
 
 We define a differentiable module:
