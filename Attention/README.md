@@ -2,7 +2,6 @@
 
 # Universal Factorization Layers: A Learned Generalization of Attention
 
-Below is a clean, copy‑ready **README.md** draft containing the structure of **Paper 1** with **LaTeX equations that will render correctly** using the `$$ ... $$` format.
 
 ---
 
@@ -35,7 +34,7 @@ $$ X = U \Sigma V^\top $$
 
 with constraints:
 
-* (U^\top U = I)
+* $$ (U^\top U = I) $$
 * (V^\top V = I)
 * (\Sigma \ge 0)
 
